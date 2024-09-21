@@ -19,4 +19,4 @@ npm install -g expo-cli
 npm i yarn
 npm run web
 
-Link youtube: Đây là link youtube của bài 3 react (https://www.youtube.com/watch?v=9geVDXw_6mQ&ab_channel=Hi%E1%BA%BFuNh%C3%A2n).
+Link youtube: Đây là link youtube của bài 3 react (https://www.youtube.com/watch?v=9geVDXw_6mQ&ab_channel=Hi%E1%BA%BFuNh%C3%A2n)
