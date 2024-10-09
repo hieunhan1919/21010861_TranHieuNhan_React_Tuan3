@@ -18,11 +18,11 @@ export default function App({navigation}){
                 style={{width: 150, height: 150, marginLeft: 215}}
             />
 
-            <Image source={require('../assets/Data/Image 95.png')}
+            <Image source={require('../assets/Data/Image95.png')}
                 style={{width: 150, height: 150, marginLeft: 20, marginTop: -25}}
             />
 
-            <Image source={require('../assets/Data/Image 97.png')}
+            <Image source={require('../assets/Data/Image97.png')}
                 style={{width: 150, height: 150, marginLeft: 0, marginTop: 30, marginLeft: 200}}
             />
         </View>
